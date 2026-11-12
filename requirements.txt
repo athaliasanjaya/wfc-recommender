@@ -1,0 +1,7 @@
+Flask
+pandas
+scikit-learn
+SQLAlchemy
+PyMySQL
+cryptography
+python-dotenv
